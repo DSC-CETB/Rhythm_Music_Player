@@ -11,8 +11,7 @@ A GUI based music player built using python and Tkinter.
 
 ## ABOUT
 
-Everybody loves listening to  music and creating your very own mp3 music player would be even more exciting. 
-So, here I have created an mp3 player with the help of python and its libraries in which we can play the song, pause it, resume it, rewind it and navigate between the songs in our local system.
+This is an mp3 player created with the help of python and its libraries in which we can play the song, pause it, resume it, rewind it,increase or decrease the volume and navigate between the songs in our local system.
 
 ![RHYTHM MUSIC PLAYER](https://user-images.githubusercontent.com/66913821/121918342-97576980-cd53-11eb-89e8-8ee709a454d5.png)
 
@@ -23,7 +22,7 @@ So, here I have created an mp3 player with the help of python and its libraries 
 
 
 ## Working-
-After installing and importing all the packages as mentioned in [requirements.txt](https://github.com/DSC-CETB/Rhythm_Music_Player/blob/main/requirements.txt) ,download and import the button images from [images](https://github.com/DSC-CETB/Rhythm_Music_Player/tree/main/Images) directory.Then on executing the code a music window appears ,from the menubar of the music window  go to file submenu,then click on the "how to use option" to know how to add and delete music in your playlist.
+After installing and importing all the packages as mentioned in [requirements.txt](https://github.com/DSC-CETB/Rhythm_Music_Player/blob/main/requirements.txt) ,download and import the button images from [images](https://github.com/DSC-CETB/Rhythm_Music_Player/tree/main/Images) directory.On executing the code a music window appears ,from the menubar of the music window  go to file submenu,then click on the "how to use option" to know about the operation of music player.
 or refer to the video given below to know more about the project.
 
 [VIDEO](https://github.com/DSC-CETB/Rhythm_Music_Player/blob/main/music_player.py)
