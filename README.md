@@ -23,8 +23,7 @@ This is an mp3 player created with the help of python and its libraries using wh
 
 ## Working-
 After installing and importing all the packages as mentioned in [requirements.txt](https://github.com/DSC-CETB/Rhythm_Music_Player/blob/main/requirements.txt) ,download and import the button images from [images](https://github.com/DSC-CETB/Rhythm_Music_Player/tree/main/Images) directory.On executing the code a music window appears ,from the menubar of the music window  go to file submenu,then click on the "how to use option" to know about the operation of music player.
-or refer to the video given below to know more about the project.
-
+or refer to the video given below to know more about the working of the project.
 [VIDEO](https://github.com/DSC-CETB/Rhythm_Music_Player/blob/main/music_player.py)
 
 
