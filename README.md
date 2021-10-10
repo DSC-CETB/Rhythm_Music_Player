@@ -11,7 +11,7 @@ A GUI based music player built using python and Tkinter.
 
 ## ABOUT
 
-This is an mp3 player created with the help of python and its libraries in which we can play the song, pause it, resume it, rewind it,increase or decrease the volume and navigate between the songs in our local system.
+This is an mp3 player created with the help of python and its libraries using which we can play the song, pause it, resume it, rewind it,increase or decrease the volume and navigate between the songs in our local system.
 
 ![RHYTHM MUSIC PLAYER](https://user-images.githubusercontent.com/66913821/121918342-97576980-cd53-11eb-89e8-8ee709a454d5.png)
 
