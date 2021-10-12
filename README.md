@@ -9,7 +9,7 @@
 
 A GUI based music player built using python and Tkinter.
 
-## ABOUT
+## About
 
 This is an mp3 player created with the help of python and its libraries using which we can play the song, pause it, resume it, rewind it,increase or decrease the volume and navigate between the songs in our local system.
 
@@ -35,8 +35,18 @@ Follow these 3 step process for contributions:
 2. Create a `GitHub Pull Request` for your change, following the instructions in the pull request template.
 3. Perform a Code Review with the project maintainers on the pull request.
 
+## Contact
+
+You can reach us at-
+
+[<img alt="Discord" src="https://cdn.discordapp.com/attachments/878682402564751401/889109868500369418/discord.png"/>](https://discord.gg/dynatWbBaP)
+
+## License
+
+Rhytm Music Player is licensed under Python Software Foundation License. 
 
 ## Author
-[@Priyanka](https://github.com/Priyanka142806)
+[Priyanka](https://github.com/Priyanka142806)
 
+## Dynamic Portfolio is a part of these Open Source programs
 ![hacktober](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg)
