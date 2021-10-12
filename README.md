@@ -45,5 +45,5 @@ Rhytm Music Player is licensed under Python Software Foundation License.
 ## Author
 [Priyanka](https://github.com/Priyanka142806)
 
-## Dynamic Portfolio is a part of these Open Source programs
+## Rhythm_Music_Player is a part of these Open Source programs
 ![hacktober](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full2.aa1e9d9.svg)
